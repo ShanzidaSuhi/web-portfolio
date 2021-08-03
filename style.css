@@ -1,0 +1,26 @@
+h1{
+    font-size: 40px;
+    font-family: 'Poppins', sans-serif;
+}
+.first{
+    color: blueviolet;
+}
+.second{
+    color: cadetblue;
+}
+.third{
+    color: palevioletred;
+}
+p{
+    color: seagreen;
+    font-size: 20px;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.half-width img{
+    width: 100%;
+}
