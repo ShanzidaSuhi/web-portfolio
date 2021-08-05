@@ -1,6 +1,9 @@
-h1{
-    font-size: 40px;
+body{
+    margin: 0;
     font-family: 'Poppins', sans-serif;
+}
+h1{
+    font-size: 35px;
 }
 .first{
     color: blueviolet;
@@ -12,8 +15,8 @@ h1{
     color: palevioletred;
 }
 p{
-    color: seagreen;
-    font-size: 20px;
+    color: black;
+    font-size: 15px;
 }
 .half-width{
     width: 40%;
@@ -23,4 +26,58 @@ p{
 }
 .half-width img{
     width: 100%;
+}
+.top-banner{
+    background-image: url(images/back.jpg);
+}
+section{
+    height: 700px;
+}
+.link-button{
+    text-decoration: none;
+    background-color: rgb(174, 187, 212);
+    padding: 5px;
+    color: darkblue;
+    font-size: 20px;
+}
+.dream{
+    background-image: url(images/back.jpg);
+}
+.video-button{
+    text-decoration: none;
+    background-color: rgb(174, 187, 212);
+    padding: 5px;
+    color: darkblue;
+    font-size: 20px;
+}
+.dream-h1{
+    color: rgb(105, 24, 69);
+
+}
+.dream-h3{
+    color: rgb(13, 8, 48);
+}
+.shadow-create{
+    background-color: rgb(149, 167, 179);
+    border-left: 7px solid;
+    border-image: linear-gradient( rgb(107, 91, 180), blueviolet);
+    border-image-slice: 1;
+    color: darkgrey;
+    box-shadow: 10px 10px 30px rgb(30, 93, 95);
+    height: 200px;
+}
+.only{
+    color: rgb(7, 39, 54);
+}
+.Favourite
+{
+    background-image: url(images/back.jpg);
+}
+.only2
+{
+    color: rgb(24, 63, 82);
+}
+.footer{
+    background-color: rgb(199, 206, 212);
+    text-align: center;
 }
